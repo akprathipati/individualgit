@@ -10,9 +10,13 @@ https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-
 https://longbaonguyen.github.io/courses/apcsa/apjava.html 
 another thing
 
+### College Board Notes
+Journal: https://docs.google.com/document/d/1AIvtYBSqMLNqruzeudRC560-xHbVl7lelLFy1LClEEY/edit
 
 
 
+### Study 
+- I will review all my notes and work on the practice FRQ's seen above. 
 
 
 ### TT notes
@@ -28,22 +32,7 @@ We're going to implement Bubble Sort in a similar way we've laid it out in words
 
 We assume the array is sorted, but if we're proven wrong while sorting (if a swap happens), we go through another iteration. The while-loop then keeps going until we manage to pass through the entire array without swapping:
 
-public static void bubbleSort(int[] a) {
-    boolean sorted = false;
-    int temp;
-    while(!sorted) {
-        sorted = true;
-        for (int i = 0; i < array.length - 1; i++) {
-            if (a[i] > a[i+1]) {
-                temp = a[i];
-                a[i] = a[i+1];
-                a[i+1] = temp;
-                sorted = false;
-            }
-        }
-    }
-}
-When using this algorithm we have to be careful how we state our swap condition.
+
 
 For example, if I had used a[i] >= a[i+1] it could have ended up with an infinite loop, because for equal elements this relation would always be true, and hence always swap them.
 

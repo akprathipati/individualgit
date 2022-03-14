@@ -11,7 +11,7 @@ Welcome to the individualgit wiki!
 ## Github Link: [Personal](https://akprathipati.github.io/individualgit/)
 
 ### College Board Notes
-## Github Link: [Personal](https://docs.google.com/document/d/1AIvtYBSqMLNqruzeudRC560-xHbVl7lelLFy1LClEEY/edit)
+## CollegeBoard Notes: [Personal](https://docs.google.com/document/d/1AIvtYBSqMLNqruzeudRC560-xHbVl7lelLFy1LClEEY/edit)
 
 
 ### Study 

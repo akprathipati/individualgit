@@ -31,7 +31,7 @@ We're going to implement Bubble Sort in a similar way we've laid it out in words
 We assume the array is sorted, but if we're proven wrong while sorting (if a swap happens), we go through another iteration. The while-loop then keeps going until we manage to pass through the entire array without swapping:
 
 
-## Datawork: [Personal](https://docs.google.com/document/d/1AIvtYBSqMLNqruzeudRC560-xHbVl7lelLFy1LClEEY/edit)
+## Data Structure Work: [Personal](https://docs.google.com/document/d/1AIvtYBSqMLNqruzeudRC560-xHbVl7lelLFy1LClEEY/edit)
 ## Github Link: [Issue](https://github.com/gracele246/theshop/issues/2)
  
  

@@ -6,9 +6,8 @@ Welcome to the individualgit wiki!
 
 ### AP Classroom
 
-## Replit Link to Data Structures Work: [Link to Replit](https://replit.com/@Akprathipati/pagesjava-1#src/Matrix.java)
-## Github Link: [Team](https://github.com/gracele246/theshop)
 
+## Github Link: [Team](https://github.com/gracele246/theshop)
 
 ### College Board Notes
 ## CollegeBoard Notes: [Personal](https://docs.google.com/document/d/1AIvtYBSqMLNqruzeudRC560-xHbVl7lelLFy1LClEEY/edit)
@@ -17,7 +16,7 @@ Welcome to the individualgit wiki!
 ### Study 
 - I will review all my notes and work on the practice FRQ's seen above. 
 
-### TT notes
+### TT notes(data structures)
 - matrixes
 - Order of databases
 

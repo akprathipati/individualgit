@@ -1,8 +1,27 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/akprathipati/individualgit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the individualgit wiki!
+
+
+Test Prep: https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions 
+
+
+
+
+
+
+
+
+TT notes: 
+- matrixes
+- Order of databases
+
+
+
+
+
+Date Work: https://replit.com/@Akprathipati/pagesjava-1#src/Matrix.java 
 
 ### Markdown
 

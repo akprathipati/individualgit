@@ -2,6 +2,7 @@
 
 
 Welcome to the individualgit wiki!
+## Github Link: [Review Ticket grading done by KYLE](https://github.com/gracele246/theshop/issues/2)
 
 ## Github Link: [Team](https://github.com/gracele246/theshop)
 
@@ -12,6 +13,8 @@ Welcome to the individualgit wiki!
 
 ### Study 
 - I will review all my notes and work on the practice FRQ's seen above. 
+- I need to spent some time looking at the different types of data structures (like hashmaps, tuples, and arrays) and saw if they were primitive or non-primitive types.
+- I need to work on datastructes and data types as well. 
 
 ### TT notes(data structures)
 - matrixes
@@ -22,7 +25,9 @@ Heap sort is one of the most important sorting methods in java that one needs to
 
 ## Repel Link: [Repel for Data](https://replit.com/@Akprathipati/pagesjava-1#src/Matrix.java)
 
-## Github Link: [Issue for grading done by KYLE](https://github.com/gracele246/theshop/issues/2)
+## Code Sniped: [Repel for Data](https://github.com/akprathipati/individualgit/blob/main/data)
+## Code Sniped: [Swap Numbers](https://github.com/akprathipati/individualgit/tree/main)
+
  
  Notes: 
  martix array use 

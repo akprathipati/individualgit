@@ -23,7 +23,7 @@ Merge sort is one of the most flexible sorting algorithms in java known to manki
 
 Heap sort is one of the most important sorting methods in java that one needs to learn to get into sorting. It combines the concepts of a tree as well as sorting, properly reinforcing the use of concepts from both. A heap is a complete binary search tree where items are stored in a special order depending on the requirement. A min-heap contains the minimum element at the root, and every child of the root must be greater than the root itself. The children at the level after that must be greater than these children, and so on. Similarly, a max-heap contains the maximum element at the root. For the sorting process, the heap is stored as an array where for every parent node at the index i, the left child is at index 2 * i + 1, and the right child is at index 2 * i + 2.
 
-## Repel Link: [Repel for Data](https://replit.com/@Akprathipati/pagesjava-1#src/Matrix.java)
+## Repel Link: [Repel for Data](https://replit.com/@Akprathipati/akcode)
 
 ## Code Sniped: [Repel for Data](https://github.com/akprathipati/individualgit/blob/main/data)
 ## Code Sniped: [Swap Numbers](https://github.com/akprathipati/individualgit/tree/main)

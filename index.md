@@ -28,11 +28,36 @@ Heap sort is one of the most important sorting methods in java that one needs to
 ## Code Sniped: [Repel for Data](https://github.com/akprathipati/individualgit/blob/main/data)
 ## Code Sniped: [Swap Numbers](https://github.com/akprathipati/individualgit/tree/main)
 
- 
- Notes: 
- martix array use 
- using merge sort
- storage of data 
+ Imperative vs. Object Oriented Paradigms
+
+Imperative Paradigms are more step-by-step than Object Oriented Paradigms. OOP relies on classes and objects, although the methods have Imperative Paradigms.
+
+Java Arrays
+
+public static Animal[] animalData() {
+	return new Animal[]{
+	        new Animal("Lion", 8, "Gold"),
+	        new Animal("Pig", 3, "Pink"),
+		new Animal("Robin", 7, "Red"),
+		new Animal("Cat", 10, "Black"),
+		new Animal("Kitty", 1, "Calico"),
+		new Animal("Dog", 14, "Brown")
+	};
+}
+Java Dictionaries
+
+private final Map<String, Integer> OPERATORS = new HashMap<>();
+    {
+        // Map<"token", precedence>
+        OPERATORS.put("*", 3);
+        OPERATORS.put("/", 3);
+        OPERATORS.put("%", 3);
+        OPERATORS.put("+", 4);
+        OPERATORS.put("-", 4);
+    }
+    
+    
+## Repel Link: [Repel for week 2](https://replit.com/@Akprathipati/AKdata#week_1/W1_C2.java)
  
  
 

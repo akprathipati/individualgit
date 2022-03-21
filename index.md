@@ -59,6 +59,8 @@ private final Map<String, Integer> OPERATORS = new HashMap<>();
     
 ## Repel Link: [Repel for week 2](https://replit.com/@Akprathipati/AKdata#week_1/W1_C2.java)
  
+DEF: linked list is a linear collection of data elements whose order is not given by their physical placement in memor
  
+DEF:T> specifically stands for generic type. According to Java Docs - A generic type is a generic class or interface that is parameterized over types.
 
 

@@ -5,7 +5,11 @@ Welcome to the individualgit wiki!
 ## Github Link: [Review Ticket grading done by KYLE](https://github.com/gracele246/theshop/issues/2)
 
 ## Github Link: [Team](https://github.com/gracele246/theshop)
-
+## Repel Link: [Repel for week 2](https://replit.com/@Akprathipati/AKdata#week_1/W1_C2.java)
+ 
+DEF: linked list is a linear collection of data elements whose order is not given by their physical placement in memor
+ 
+DEF:T> specifically stands for generic type. According to Java Docs - A generic type is a generic class or interface that is parameterized over types.
 
 ### College Board Notes
 ## CollegeBoard Notes: [Document](https://docs.google.com/document/d/1AIvtYBSqMLNqruzeudRC560-xHbVl7lelLFy1LClEEY/edit)
@@ -57,10 +61,6 @@ private final Map<String, Integer> OPERATORS = new HashMap<>();
     }
     
     
-## Repel Link: [Repel for week 2](https://replit.com/@Akprathipati/AKdata#week_1/W1_C2.java)
- 
-DEF: linked list is a linear collection of data elements whose order is not given by their physical placement in memor
- 
-DEF:T> specifically stands for generic type. According to Java Docs - A generic type is a generic class or interface that is parameterized over types.
+
 
 

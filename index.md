@@ -6,6 +6,7 @@ Welcome to the individualgit wiki!
 
 ## Github Link: [Team](https://github.com/gracele246/theshop)
 ## Repel Link: [Repel for week 2](https://replit.com/@Akprathipati/AKdata#week_1/W1_C2.java)
+## Repel Link: [Repel for week 2](https://replit.com/@Akprathipati/LLLLClacl#.replit)
  
 DEF: linked list is a linear collection of data elements whose order is not given by their physical placement in memor
  

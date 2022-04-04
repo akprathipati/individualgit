@@ -1,0 +1,4 @@
+Bubble Sort
+
+Bubble sort works by swapping adjacent elements if they're not in the desired order. It essentially enables it in a way that makes the numbers are arranged in order. 4 2 1 5 3: The first two elements are in the wrong order, so we swap them. 2 4 1 5 3: The second two elements are in the wrong order too, so we swap. 2 1 4 5 3: These two are in the right order, 4 < 5, so we leave them alone. 2 1 4 5 3: Another swap. 2 1 4 3 5: Here's the resulting array after one iteration.
+Time complexity It is the worst one out of all of them because it looks at 2 numbers. It is the least effective method overall. Divide them into sorted and unsorted array

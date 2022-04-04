@@ -1,0 +1,11 @@
+O(l) - constant time
+This means that the algorithm requires the same fixed number of steps regardless of the size. 
+O(n) - linear time
+This means that the algorithm requires a number of steps proportional to the size of the task.
+If a task is more complex, then it will require more time overall. 
+The purpose of Big O notation is to calculate the time it 
+p(n) = aknk + ak-1nk-1 + ... + a1n + a0
+One way to calculate it, we can use a series method. 
+
+Constant naoiton is the best way.
+

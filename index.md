@@ -2,7 +2,7 @@
 
 
 Welcome to the individualgit wiki!
-## Github Link: [Review Ticket grading done by KYLE](https://github.com/gracele246/theshop/issues/2)
+## Github Link: [Review Ticket grading done by Tanmay](https://github.com/gracele246/theshop/issues/2)
 
 ## Github Link: [Team](https://github.com/gracele246/theshop)
 ## Repel Link: [New Repel](https://replit.com/@Akprathipati/Akdatastructures?from=notifications#Sorts.java)
@@ -274,7 +274,7 @@ Selection Sort also divides the array into a sorted and unsorted subarray
 Merge Sort uses recursion to solve the problem of sorting more efficiently than algorithms previously presented, and in particular it uses a divide and conquer approach.
 https://s3.amazonaws.com/stackabuse/media/sorting-algorithms-in-java-1.png![image](https://user-images.githubusercontent.com/54961927/161633647-546aae19-2167-485b-810d-54268edb36de.png)
 
-
+BIG O NOTATION 
 O(l) - constant time
 This means that the algorithm requires the same fixed number of steps regardless of the size. 
 O(n) - linear time

@@ -2,7 +2,7 @@
 
 
 Welcome to the individualgit wiki!
-## Github Link: [Review Ticket grading done by Tanmay](https://github.com/gracele246/theshop/issues/2)
+## Github Link: [Review Ticket grading done by Tanmay](https://github.com/gracele246/theshop/issues/14)
 
 ## Github Link: [Team](https://github.com/gracele246/theshop)
 ## Repel Link: [New Repel](https://replit.com/@Akprathipati/Akdatastructures?from=notifications#Sorts.java)

@@ -5,8 +5,8 @@ Welcome to the individualgit wiki!
 ## Github Link: [Review Ticket grading done by KYLE](https://github.com/gracele246/theshop/issues/2)
 
 ## Github Link: [Team](https://github.com/gracele246/theshop)
-## Repel Link: [Repel for week 2](https://replit.com/@Akprathipati/AKdata#week_1/W1_C2.java)
-## Repel Link: [Repel for week 3](https://replit.com/@Akprathipati/LLLLClacl#.replit)
+## Repel Link: [New Repel](https://replit.com/@Akprathipati/Akdatastructures?from=notifications#Sorts.java)
+
  
 DEF: linked list is a linear collection of data elements whose order is not given by their physical placement in memor
  
@@ -262,8 +262,17 @@ Bubble sort
 Bubble sort works by swapping adjacent elements if they're not in the desired order. They are comapred with 2 numbers, so it isnt the most effectve method. 
 time Complexity time complexity would be O(n^2).
 Inseration Sort 
+3 5 7 8 4 2 1 9 6: We take 4 and remember that that's what we need to insert. Since 8 > 4, we shift.
+3 5 7 x 8 2 1 9 6: Where the value of x is not of crucial importance, since it will be overwritten immediately (either by 4 if it's its appropriate place or by 7 if we shift). Since 7 > 4, we shift.
+3 5 x 7 8 2 1 9 6
+3 x 5 7 8 2 1 9 6
+3 4 5 7 8 2 1 9 6
+O(n^2).
+Selection sort 
+Selection Sort also divides the array into a sorted and unsorted subarray
 
-
+Merge Sort uses recursion to solve the problem of sorting more efficiently than algorithms previously presented, and in particular it uses a divide and conquer approach.
+https://s3.amazonaws.com/stackabuse/media/sorting-algorithms-in-java-1.png![image](https://user-images.githubusercontent.com/54961927/161633647-546aae19-2167-485b-810d-54268edb36de.png)
 
 
 O(l) - constant time

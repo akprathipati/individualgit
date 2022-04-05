@@ -26,7 +26,8 @@ Worse time complexity of: On^2
 finds the lowest number in the list from the unsorted part and drops it at the beginning of the list. Selection sort also divides the array into a sorted and unsorted subarray
 It keeps iterating through the sorted codes until it doesn’t have to do anything anymore.
 
-https://s3.amazonaws.com/stackabuse/media/sorting-algorithms-in-java-1.png![image](https://user-images.githubusercontent.com/54961927/161633647-546aae19-2167-485b-810d-54268edb36de.png)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.programiz.com%2Fdsa%2Fselection-sort&psig=AOvVaw1H7h5hUcY2P4v6dnUkZbMA&ust=1649266103619000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJCIyZS5_fYCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/54961927/161815198-7b63aa1a-2a23-4264-b9ac-5b0cdac32d33.png)
+
 
 
 It has an O(n2) time complexity, which makes it inefficient on large lists,but it seems to be much better than bubble sort. 
@@ -49,8 +50,8 @@ public static void insertSort(ArrayList<Integer> array) {
     }
 ```    
  
-In this code section, the code is essentially just iterating through the entire list and comparing the select number to it’s predecessors. If the number before it is smaller, then it will stay in place. It keeps looking through it’s ancestors until it finds a number that it is bigger than itself, and then it will switch into the spot before it. It does this process for each object in the code and will continue until it completely sorts itself.
-According to brilliant.org, “When analyzing algorithms, the average case often has the same complexity as the worst case. So insertion sort, on average, takes O ( n 2 ) O(n^2) O(n2) time. Insertion sort has a fast best-case running time and is a good sorting algorithm to use if the input list is already mostly sorted.”
+In this code section, the code is essentially just iterating through the entire list and comparing the select number the number before it. If the number before it is smaller, then it will stay in place. It keeps looking through it’s list  until it finds a number that it is bigger than itself, and then it will switch lol. It does this process for each object in the code and will continue until it completely sorts itself.
+takes: O ( n 2 ) O(n^2) O(n2) time.
 
 BIG O NOTATION O(l) - constant time This means that the algorithm requires the same fixed number of steps regardless of the size. O(n) - linear time This means that the algorithm requires a number of steps proportional to the size of the task. If a task is more complex, then it will require more time overall. The purpose of Big O notation is to calculate the time it p(n) = aknk + ak-1nk-1 + … + a1n + a0 One way to calculate it, we can use a series method.
 Constant naoiton is the best way.

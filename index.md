@@ -50,10 +50,12 @@ public static void insertSort(ArrayList<Integer> array) {
     }
 ```    
  
-In this code section, the code is essentially just iterating through the entire list and comparing the select number the number before it. If the number before it is smaller, then it will stay in place. It keeps looking through it’s list  until it finds a number that it is bigger than itself, and then it will switch lol. It does this process for each object in the code and will continue until it completely sorts itself.
-takes: O ( n 2 ) O(n^2) O(n2) time.
+In this code section, the code is essentially just iterating through the entire list and comparing the select number the number before it. If the number before it is smaller, then it will stay in place. It keeps looking through it’s list  until it finds a number that it is bigger than itself, and then it will switch lol. 
+It does this process for each object in the code and will continue until it completely sorts itself.
+takes: O ( n 2 ) O(n^2) O(n2) time. It has great efficincy. 
 
-BIG O NOTATION O(l) - constant time This means that the algorithm requires the same fixed number of steps regardless of the size. O(n) - linear time This means that the algorithm requires a number of steps proportional to the size of the task. If a task is more complex, then it will require more time overall. The purpose of Big O notation is to calculate the time it p(n) = aknk + ak-1nk-1 + … + a1n + a0 One way to calculate it, we can use a series method.
+BIG O NOTATION
+O(l) - constant time This means that the algorithm requires the same fixed number of steps regardless of the size. O(n) - linear time This means that the algorithm requires a number of steps proportional to the size of the task. If a task is more complex, then it will require more time overall. The purpose of Big O notation is to calculate the time it p(n) = aknk + ak-1nk-1 + … + a1n + a0 One way to calculate it, we can use a series method.
 Constant naoiton is the best way.
 
 

@@ -8,6 +8,7 @@ Sorting is when you are placing items in a list in order based on what you requi
 1. Bubble Sort
 Bubble sort Bubble sort works by swapping adjacent elements if they’re not in the desired order. They are compared with 2 numbers, so it isn't the most effective method.
 Here is an example picture of Bubble Sort:
+```java
 for (int x = 0; x < array.size(); x++) {
             for (int y = 0; y < array.size() - 1; y++) {
                 if (array.get(y) > array.get(y + 1)) {
@@ -17,7 +18,7 @@ for (int x = 0; x < array.size(); x++) {
                 }
             }
         }
- 
+```
 Basically all this code is doing is first getting our 2 variables: x and y. Each one has a certain value. In this example, we want to switch both the values. So we create a temporary which stores the values until the switch is made. 
 Once the switch is done, the x and y values will switch. 
 Worse time complexity of: On^2
@@ -25,8 +26,8 @@ Worse time complexity of: On^2
 finds the lowest number in the list from the unsorted part and drops it at the beginning of the list. Selection sort also divides the array into a sorted and unsorted subarray
 It keeps iterating through the sorted codes until it doesn’t have to do anything anymore.
 
-Credit: programiz 
-Esentaily shows the process that was described above
+https://s3.amazonaws.com/stackabuse/media/sorting-algorithms-in-java-1.png![image](https://user-images.githubusercontent.com/54961927/161633647-546aae19-2167-485b-810d-54268edb36de.png)
+
 
 It has an O(n2) time complexity, which makes it inefficient on large lists,but it seems to be much better than bubble sort. 
 3. Insertion Sort

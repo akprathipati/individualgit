@@ -33,6 +33,7 @@ It has an O(n2) time complexity, which makes it inefficient on large lists,but i
 3. Insertion Sort
 This also splits into subarrays with a sorted and unsorted part.
 Here is a code snippet that looks at this:
+```java
 public static void insertSort(ArrayList<Integer> array) {
         int n = array.size();
         for (int i = 1; i < n; ++i) {
@@ -46,6 +47,7 @@ public static void insertSort(ArrayList<Integer> array) {
         }
 
     }
+```    
  
 In this code section, the code is essentially just iterating through the entire list and comparing the select number to it’s predecessors. If the number before it is smaller, then it will stay in place. It keeps looking through it’s ancestors until it finds a number that it is bigger than itself, and then it will switch into the spot before it. It does this process for each object in the code and will continue until it completely sorts itself.
 According to brilliant.org, “When analyzing algorithms, the average case often has the same complexity as the worst case. So insertion sort, on average, takes O ( n 2 ) O(n^2) O(n2) time. Insertion sort has a fast best-case running time and is a good sorting algorithm to use if the input list is already mostly sorted.”

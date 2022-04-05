@@ -1,7 +1,58 @@
 ## Welcome to GitHub Pages
 
+## Repel Link: [New Repel](https://replit.com/@Akprathipati/Akdatastructures?from=notifications#Sorts.java)
 
-Welcome to the individualgit wiki!
+Sort Implementations & Big O Complexities
+Sorting is when you are placing items in a list in order based on what you require. This is an algorithm that helps utilize data structures as well!  
+
+1. Bubble Sort
+Bubble sort Bubble sort works by swapping adjacent elements if they’re not in the desired order. They are compared with 2 numbers, so it isn't the most effective method.
+Here is an example picture of Bubble Sort:
+for (int x = 0; x < array.size(); x++) {
+            for (int y = 0; y < array.size() - 1; y++) {
+                if (array.get(y) > array.get(y + 1)) {
+                    int temporary = array.get(y);
+                    array.set(y, array.get(y + 1));
+                    array.set(y + 1, temporary);
+                }
+            }
+        }
+ 
+Basically all this code is doing is first getting our 2 variables: x and y. Each one has a certain value. In this example, we want to switch both the values. So we create a temporary which stores the values until the switch is made. 
+Once the switch is done, the x and y values will switch. 
+Worse time complexity of: On^2
+2. Selection Sort
+finds the lowest number in the list from the unsorted part and drops it at the beginning of the list. Selection sort also divides the array into a sorted and unsorted subarray
+It keeps iterating through the sorted codes until it doesn’t have to do anything anymore.
+
+Credit: programiz 
+Esentaily shows the process that was described above
+
+It has an O(n2) time complexity, which makes it inefficient on large lists,but it seems to be much better than bubble sort. 
+3. Insertion Sort
+This also splits into subarrays with a sorted and unsorted part.
+Here is a code snippet that looks at this:
+public static void insertSort(ArrayList<Integer> array) {
+        int n = array.size();
+        for (int i = 1; i < n; ++i) {
+            int key = array.get(i);
+            int j = i - 1;
+            while (j >= 0 && array.get(j) > key) {
+                array.set(j + 1, array.get(j));
+                j = j - 1;
+            }
+            array.set(j + 1, key);
+        }
+
+    }
+ 
+In this code section, the code is essentially just iterating through the entire list and comparing the select number to it’s predecessors. If the number before it is smaller, then it will stay in place. It keeps looking through it’s ancestors until it finds a number that it is bigger than itself, and then it will switch into the spot before it. It does this process for each object in the code and will continue until it completely sorts itself.
+According to brilliant.org, “When analyzing algorithms, the average case often has the same complexity as the worst case. So insertion sort, on average, takes O ( n 2 ) O(n^2) O(n2) time. Insertion sort has a fast best-case running time and is a good sorting algorithm to use if the input list is already mostly sorted.”
+
+BIG O NOTATION O(l) - constant time This means that the algorithm requires the same fixed number of steps regardless of the size. O(n) - linear time This means that the algorithm requires a number of steps proportional to the size of the task. If a task is more complex, then it will require more time overall. The purpose of Big O notation is to calculate the time it p(n) = aknk + ak-1nk-1 + … + a1n + a0 One way to calculate it, we can use a series method.
+Constant naoiton is the best way.
+
+
 ## Github Link: [Review Ticket grading done by Tanmay](https://github.com/gracele246/theshop/issues/14)
 
 ## Github Link: [Team](https://github.com/gracele246/theshop)

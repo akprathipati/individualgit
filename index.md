@@ -1,23 +1,24 @@
 ## Welcome to GitHub Pages
 
 Mon: 
+
 -Study/ watch videos for unit 1-3
 -Go over the practice FRQ 
 
 
 Tues: 
+
 -Study unit 3-5 CB 
 -Study FRQ’s from college board 
 -Go over the MC 
 
 
 Wed: 
+
 -unit 6 from CB 
 -Study unit 6 frq 
 -work on classes and getters and setters 
 -More work on MCQ’s questions 
-
-
 
 
 

@@ -1,5 +1,42 @@
 ## Welcome to GitHub Pages
 
+Mon: 
+-Study/ watch videos for unit 1-3
+-Go over the practice FRQ 
+
+
+Tues: 
+-Study unit 3-5 CB 
+-Study FRQ’s from college board 
+-Go over the MC 
+
+
+Wed: 
+-unit 6 from CB 
+-Study unit 6 frq 
+-work on classes and getters and setters 
+-More work on MCQ’s questions 
+
+
+
+
+
+Thurs: 
+- unit 7 
+- FRQ unit 7 
+- 
+
+
+Fri:
+- unit 8 & 9 
+- FRQ for the units 
+
+
+
+
+
+
+
 ## Repel Link: [New Repel](https://replit.com/@Akprathipati/Akdatastructures?from=notifications#Sorts.java)
 
 Sort Implementations & Big O Complexities

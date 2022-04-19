@@ -1,65 +1,40 @@
 ## Welcome to GitHub Pages
 
-## Mon: 
-4:00- 7:00 
-4:00- 5:30 Study/ watch videos for unit 1-3
-## DS: [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM) 4:00-5:30 **Unit 1-3 topics reviwed 
+## Study Plan:
 
-## DS: [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0) 5:30-7:00 ** goes over apcsa exam as a whole 
+Monday: Devise study plan and do general review for Tuesday's MCQ. The purpose of the MC is to gauge where my weaknesses are at.
+ [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM) 4:00-5:30 **Unit 1-3 topics reviwed 
+ DS: [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0) 5:30-7:00 ** goes over apcsa exam as a whole
+ 
 
--Go over the practice FRQ 
-4:00-7:00
-# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 7:00-7:30 FRQ compliation from past years: working on them and will do corrections as well. 
+Tuesday: Take MCQ at school and analyze performance. Most missed unit skills:
 
-
-
-## Tues: 4:00-7:00
-
-
--Study unit 3-5 CB
-## DS: [Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)4:00-5:00 Review content for unit 3-5
-
-
--Study FRQ’s from college board 
+- 5a - describe the behavior and conditions that produce identified results in a program
+- 2c - describe the output, value, or result of given program code given initial values
+- 1b - determine required code segments to produce a given output
 # DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 5:30-6:30
 6:30-7:00 FRQ practice here!!
--Go over the MC 
-# DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/) 6:30-7:00
-- Do study analysis
- 7:00-8:00 Defined below 
 
 
-## Wed: 
+Wednesday: Take Tuesday MCQ and do further review with personal test corrections. Then get familiar with FRQ format for Thuesday exam.
+Do this FRQ at home to prepare for the writing format: [1999 Official Exam](https://secure-media.collegeboard.org/apc/compsci_a_99.pdf) Then quickly view answers and see mistakes, but do not focus too much. Focus more on familiarizing with the format and do a complete review after the class FRQ on thursday.
+At home, use [Georgia Tech's practice exams](https://www.apcsaexam.org/mcpractice.html) and to more questions corresponding to these skills.
+## DS: [Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)4:00-5:00 Review content for unit 3-5
 
--unit 6 from CB 
-## DS: [Unit 6 ](https://www.youtube.com/watch?v=4vzTuQAcaJE)4:00-5:00. unit 6 review 
--Study unit 6 frq 
-# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 5:00-6:00
--work on classes and getters and setters 
--More work on MCQ’s questions
-# DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/) Test corrections from tues test 
-- Watch ap live review videos 1-2
-- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 6:00-7:00 More review 
-
-
-
-## Thurs: 
-- unit 7 
-# DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE) 4:00-5:00
-- FRQ unit 7 
+Thursday: Take FRQ at school and take home to analyze performance. Update: most missed unit skills from BOTH tests:
+- here
+- here
+- here
+- - # DS: [AJAY unit 4-5 ](https://www.youtube.com/watch?v=F-wI9L158wE)4:00-5:00
 - # DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
 - Watch ap live review videos 3-4
-- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 5:00-7:00
+- DS: [LIVE VIDEO from CB ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 5:00-7:00
+
+Review mistakes using the [provided scoring guideliens](https://secure-media.collegeboard.org/apc/1999_cs_q_a.pdf)
+
+Friday: Continue with FRQ review if not finished or not understood. Go home and find which units to study. Devise a study plan to study what I don't know. Use AP exam live reviews on youtube provided by [CB](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) as well as [Ajay Gandecha's youtube channel](https://www.youtube.com/watch?v=JYLJbVECJxs&list=PLfpeXtDSa8rUl8S9NtbPKlg0ikc-rw-LC) that goes through each unit very well. Determine video study plan.
 
 
-## Fri:
-- unit 8 & 9 
-- # DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE)4:00-5"00
-- FRQ for the units 
-- Watch ap live review videos 5-6
-- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd)
-Ajay gadacha vidoes: 
-## Ajay: [Ajay video ](https://www.youtube.com/watch?v=P--N35m1X-E) 5:00-6:00
 
 Summary: After this week, I will get a good look at my weakness: I think that FRQ's are going to be the hardest since that requires a lot more etchnical skills. I think I may do fine of the MC so far. I think the AP CB vidoes live review that they do will be helful. 
 

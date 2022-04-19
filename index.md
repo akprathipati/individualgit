@@ -32,7 +32,7 @@ Thursday: Take FRQ at school and take home to analyze performance. Update: most 
 
 Review mistakes using the [provided scoring guideliens](https://secure-media.collegeboard.org/apc/1999_cs_q_a.pdf)
 
-Friday: Continue with FRQ review if not finished or not understood. Go home and find which units to study. Devise a study plan to study what I don't know. Use AP exam live reviews on youtube provided by [CB](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) as well as [Ajay Gandecha's youtube channel](https://www.youtube.com/watch?v=JYLJbVECJxs&list=PLfpeXtDSa8rUl8S9NtbPKlg0ikc-rw-LC) that goes through each unit very well. Determine video study plan.
+Friday: Continue with FRQ review if not finished or not understood. Go home and find which units to study. Devise a study plan to study what I don't know. Use AP exam live reviews on youtube provided by [CB](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) as well as [Ajay Gandecha's youtube channel](https://www.youtube.com/watch?v=JYLJbVECJxs&list=PLfpeXtDSa8rUl8S9NtbPKlg0ikc-rw-LC) that goes through each unit very well. Determine video study plan..
 
 
 

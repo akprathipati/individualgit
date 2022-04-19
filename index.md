@@ -25,10 +25,10 @@ Thursday: Take FRQ at school and take home to analyze performance. Update: most 
 - here
 - here
 - here
-- - # DS: [AJAY unit 4-5 ](https://www.youtube.com/watch?v=F-wI9L158wE)4:00-5:00
-- # DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
+- - [AJAY unit 4-5 ](https://www.youtube.com/watch?v=F-wI9L158wE)4:00-5:00
+-  [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
 - Watch ap live review videos 3-4
-- DS: [LIVE VIDEO from CB ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 5:00-7:00
+- [LIVE VIDEO from CB ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 5:00-7:00
 
 Review mistakes using the [provided scoring guideliens](https://secure-media.collegeboard.org/apc/1999_cs_q_a.pdf)
 

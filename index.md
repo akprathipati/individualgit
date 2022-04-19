@@ -1,40 +1,62 @@
 ## Welcome to GitHub Pages
 
 Mon: 
+4:00- 7:00 
+4:00- 5:30 Study/ watch videos for unit 1-3
+## DS: [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM)
+## DS: [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0)
 
--Study/ watch videos for unit 1-3
 -Go over the practice FRQ 
+5:30-7:00
+# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
 
 
 
-Tues: 
+Tues: 4:00-7:00
 
--Study unit 3-5 CB 
+4:00-5:30
+-Study unit 3-5 CB
+## DS: [Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)
+
+5:30-6:3-
 -Study FRQ’s from college board 
+# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
+6:30-7:00
 -Go over the MC 
-- Do study analysis 
+# DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/)
+- Do study analysis
+ 
 
 
 Wed: 
 
 -unit 6 from CB 
+## DS: [Unit 6 ](https://www.youtube.com/watch?v=4vzTuQAcaJE)
 -Study unit 6 frq 
+# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
 -work on classes and getters and setters 
 -More work on MCQ’s questions
+# DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/)
 - Watch ap live review videos 1-2
+- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd)
 
 
 
 Thurs: 
 - unit 7 
+# DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE)
 - FRQ unit 7 
+- # DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
 - Watch ap live review videos 3-4
+- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd)
 
 
 Fri:
 - unit 8 & 9 
+- # DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE)
 - FRQ for the units 
 - Watch ap live review videos 5-6
+- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd)
 Ajay gadacha vidoes: 
 ## Ajay: [Ajay video ](https://www.youtube.com/watch?v=P--N35m1X-E)
 Summary: After this week, I will get a good look at my weakness: I think that FRQ's are going to be the hardest since that requires a lot more etchnical skills. I think I may do fine of the MC so far. I think the AP CB vidoes live review that they do will be helful. 

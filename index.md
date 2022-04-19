@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Mon: 
+## Mon: 
 4:00- 7:00 
 4:00- 5:30 Study/ watch videos for unit 1-3
 ## DS: [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM) 4:00-5:30
@@ -12,7 +12,7 @@ Mon:
 
 
 
-Tues: 4:00-7:00
+## Tues: 4:00-7:00
 
 
 -Study unit 3-5 CB
@@ -28,7 +28,7 @@ Tues: 4:00-7:00
  7:00-8:00
 
 
-Wed: 
+## Wed: 
 
 -unit 6 from CB 
 ## DS: [Unit 6 ](https://www.youtube.com/watch?v=4vzTuQAcaJE)4:00-5:00
@@ -42,7 +42,7 @@ Wed:
 
 
 
-Thurs: 
+## Thurs: 
 - unit 7 
 # DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE) 4:00-5:00
 - FRQ unit 7 
@@ -51,7 +51,7 @@ Thurs:
 - DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 5:00-7:00
 
 
-Fri:
+## Fri:
 - unit 8 & 9 
 - # DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE)4:00-5"00
 - FRQ for the units 

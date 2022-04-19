@@ -39,7 +39,7 @@ Ajay gadacha vidoes:
 ## Ajay: [Ajay video ](https://www.youtube.com/watch?v=P--N35m1X-E)
 Summary: After this week, I will get a good look at my weakness: I think that FRQ's are going to be the hardest since that requires a lot more etchnical skills. I think I may do fine of the MC so far. I think the AP CB vidoes live review that they do will be helful. 
 
-
+Study analysis: this method looks at the questions I missed, why I miised, helps me understand the topic and also helps me look at similar problems to see how to solve it. 
 
 
 

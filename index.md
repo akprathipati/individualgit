@@ -36,6 +36,7 @@ Fri:
 - FRQ for the units 
 - Watch ap live review videos 5-6
 
+Summary: After this week, I will get a good look at my weakness: I think that FRQ's are going to be the hardest since that requires a lot more etchnical skills. I think I may do fine of the MC so far. I think the AP CB vidoes live review that they do will be helful. 
 
 
 

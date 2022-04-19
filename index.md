@@ -35,7 +35,8 @@ Fri:
 - unit 8 & 9 
 - FRQ for the units 
 - Watch ap live review videos 5-6
-
+Ajay gadacha vidoes: 
+## Ajay: [Ajay video ](https://www.youtube.com/watch?v=P--N35m1X-E)
 Summary: After this week, I will get a good look at my weakness: I think that FRQ's are going to be the hardest since that requires a lot more etchnical skills. I think I may do fine of the MC so far. I think the AP CB vidoes live review that they do will be helful. 
 
 

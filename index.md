@@ -4,7 +4,7 @@
 
 Monday: Devise study plan and do general review for Tuesday's MCQ. The purpose of the MC is to gauge where my weaknesses are at.
  [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM) 4:00-5:30 **Unit 1-3 topics reviwed 
- DS: [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0) 5:30-7:00 ** goes over apcsa exam as a whole
+ [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0) 5:30-7:00 ** goes over apcsa exam as a whole
  
 
 Tuesday: Take MCQ at school and analyze performance. Most missed unit skills:
@@ -12,14 +12,14 @@ Tuesday: Take MCQ at school and analyze performance. Most missed unit skills:
 - 5a - describe the behavior and conditions that produce identified results in a program
 - 2c - describe the output, value, or result of given program code given initial values
 - 1b - determine required code segments to produce a given output
-# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 5:30-6:30
+[FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 5:30-6:30
 6:30-7:00 FRQ practice here!!
 
 
 Wednesday: Take Tuesday MCQ and do further review with personal test corrections. Then get familiar with FRQ format for Thuesday exam.
 Do this FRQ at home to prepare for the writing format: [1999 Official Exam](https://secure-media.collegeboard.org/apc/compsci_a_99.pdf) Then quickly view answers and see mistakes, but do not focus too much. Focus more on familiarizing with the format and do a complete review after the class FRQ on thursday.
 At home, use [Georgia Tech's practice exams](https://www.apcsaexam.org/mcpractice.html) and to more questions corresponding to these skills.
-## DS: [Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)4:00-5:00 Review content for unit 3-5
+[Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)4:00-5:00 Review content for unit 3-5
 
 Thursday: Take FRQ at school and take home to analyze performance. Update: most missed unit skills from BOTH tests:
 - here

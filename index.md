@@ -3,12 +3,13 @@
 ## Mon: 
 4:00- 7:00 
 4:00- 5:30 Study/ watch videos for unit 1-3
-## DS: [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM) 4:00-5:30
-## DS: [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0) 5:30-7:00
+## DS: [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM) 4:00-5:30 **Unit 1-3 topics reviwed 
+
+## DS: [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0) 5:30-7:00 ** goes over apcsa exam as a whole 
 
 -Go over the practice FRQ 
 4:00-7:00
-# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 7:00-7:30
+# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 7:00-7:30 FRQ compliation from past years: working on them and will do corrections as well. 
 
 
 
@@ -16,29 +17,29 @@
 
 
 -Study unit 3-5 CB
-## DS: [Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)4:00-5:00
+## DS: [Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)4:00-5:00 Review content for unit 3-5
 
 
 -Study FRQ’s from college board 
 # DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 5:30-6:30
-6:30-7:00
+6:30-7:00 FRQ practice here!!
 -Go over the MC 
 # DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/) 6:30-7:00
 - Do study analysis
- 7:00-8:00
+ 7:00-8:00 Defined below 
 
 
 ## Wed: 
 
 -unit 6 from CB 
-## DS: [Unit 6 ](https://www.youtube.com/watch?v=4vzTuQAcaJE)4:00-5:00
+## DS: [Unit 6 ](https://www.youtube.com/watch?v=4vzTuQAcaJE)4:00-5:00. unit 6 review 
 -Study unit 6 frq 
 # DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 5:00-6:00
 -work on classes and getters and setters 
 -More work on MCQ’s questions
-# DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/)
+# DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/) Test corrections from tues test 
 - Watch ap live review videos 1-2
-- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 6:00-7:00
+- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 6:00-7:00 More review 
 
 
 
@@ -59,7 +60,10 @@
 - DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd)
 Ajay gadacha vidoes: 
 ## Ajay: [Ajay video ](https://www.youtube.com/watch?v=P--N35m1X-E) 5:00-6:00
+
 Summary: After this week, I will get a good look at my weakness: I think that FRQ's are going to be the hardest since that requires a lot more etchnical skills. I think I may do fine of the MC so far. I think the AP CB vidoes live review that they do will be helful. 
+
+I designed my plan so that there is active practice(MCQ's and FRQ's) as well as an opperunity to review my work as well
 
 Study analysis: this method looks at the questions I missed, why I miised, helps me understand the topic and also helps me look at similar problems to see how to solve it. 
 

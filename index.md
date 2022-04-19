@@ -6,11 +6,13 @@ Mon:
 -Go over the practice FRQ 
 
 
+
 Tues: 
 
 -Study unit 3-5 CB 
 -Study FRQ’s from college board 
 -Go over the MC 
+- Do study analysis 
 
 
 Wed: 
@@ -18,20 +20,21 @@ Wed:
 -unit 6 from CB 
 -Study unit 6 frq 
 -work on classes and getters and setters 
--More work on MCQ’s questions 
+-More work on MCQ’s questions
+- Watch ap live review videos 1-2
 
 
 
 Thurs: 
 - unit 7 
 - FRQ unit 7 
-- 
+- Watch ap live review videos 3-4
 
 
 Fri:
 - unit 8 & 9 
 - FRQ for the units 
-
+- Watch ap live review videos 5-6
 
 
 

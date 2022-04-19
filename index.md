@@ -3,62 +3,62 @@
 Mon: 
 4:00- 7:00 
 4:00- 5:30 Study/ watch videos for unit 1-3
-## DS: [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM)
-## DS: [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0)
+## DS: [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM) 4:00-5:30
+## DS: [prof paul ](https://www.youtube.com/watch?v=I6Bt42NXAe0&list=RDCMUCViAcUsxrffb-dH50U5VHqw&start_radio=1&rv=I6Bt42NXAe0&t=0) 5:30-7:00
 
 -Go over the practice FRQ 
-5:30-7:00
-# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
+4:00-7:00
+# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 7:00-7:30
 
 
 
 Tues: 4:00-7:00
 
-4:00-5:30
--Study unit 3-5 CB
-## DS: [Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)
 
-5:30-6:3-
+-Study unit 3-5 CB
+## DS: [Unit 3-5 ](https://www.youtube.com/watch?v=_mClihsGtjY)4:00-5:00
+
+
 -Study FRQ’s from college board 
-# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
+# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 5:30-6:30
 6:30-7:00
 -Go over the MC 
-# DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/)
+# DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/) 6:30-7:00
 - Do study analysis
- 
+ 7:00-8:00
 
 
 Wed: 
 
 -unit 6 from CB 
-## DS: [Unit 6 ](https://www.youtube.com/watch?v=4vzTuQAcaJE)
+## DS: [Unit 6 ](https://www.youtube.com/watch?v=4vzTuQAcaJE)4:00-5:00
 -Study unit 6 frq 
-# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
+# DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf) 5:00-6:00
 -work on classes and getters and setters 
 -More work on MCQ’s questions
 # DS: [MCQ ](https://apclassroom.collegeboard.org/8/assessments/assignments/45760795/)
 - Watch ap live review videos 1-2
-- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd)
+- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 6:00-7:00
 
 
 
 Thurs: 
 - unit 7 
-# DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE)
+# DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE) 4:00-5:00
 - FRQ unit 7 
 - # DS: [FRQ's ](https://apcentral.collegeboard.org/pdf/ap21-frq-computer-science-a.pdf)
 - Watch ap live review videos 3-4
-- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd)
+- DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd) 5:00-7:00
 
 
 Fri:
 - unit 8 & 9 
-- # DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE)
+- # DS: [AJAY ](https://www.youtube.com/watch?v=F-wI9L158wE)4:00-5"00
 - FRQ for the units 
 - Watch ap live review videos 5-6
 - DS: [LIVE VIDEO ](https://www.youtube.com/watch?v=-NXby4ahlnU&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd)
 Ajay gadacha vidoes: 
-## Ajay: [Ajay video ](https://www.youtube.com/watch?v=P--N35m1X-E)
+## Ajay: [Ajay video ](https://www.youtube.com/watch?v=P--N35m1X-E) 5:00-6:00
 Summary: After this week, I will get a good look at my weakness: I think that FRQ's are going to be the hardest since that requires a lot more etchnical skills. I think I may do fine of the MC so far. I think the AP CB vidoes live review that they do will be helful. 
 
 Study analysis: this method looks at the questions I missed, why I miised, helps me understand the topic and also helps me look at similar problems to see how to solve it. 

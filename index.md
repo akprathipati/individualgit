@@ -1,6 +1,21 @@
 ## Welcome to GitHub Pages
 
-## Study Plan:
+## Week 1 Test Prep:
+ 
+[Test Correction](https://docs.google.com/document/d/1ITI4Ek_uzoe7-g-f4Ngf5HIgjfgjw-gfO4sKpUxLhKA/edit)
+[Repel.it](https://replit.com/@Akprathipati/FRQAPEXAM1-2#FRQ%20B.java)
+[Document](https://docs.google.com/document/d/19Jxq7MrM1YJaKdRfeNOLbEf-RkGNBSK7eaqG7mHy3_c/edit?usp=sharing)
+
+
+
+
+
+
+
+
+
+
+
 
 Monday: Devise study plan and do general review for Tuesday's MCQ. The purpose of the MC is to gauge where my weaknesses are at.
  [Unit 1 vid ](https://www.youtube.com/watch?v=BjRvQbWsTfM) 4:00-5:30 **Unit 1-3 topics reviwed 

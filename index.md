@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+
+
+
+## Week 2 Test Prep:
+ 
+[Test Correction](https://docs.google.com/document/d/1dq66c9Ur7EPFW_XJRrHrKCNluTiwiMagTgMXVp4reLk/edit?usp=sharing)
+[Repel.it FRQ ](https://replit.com/@Akprathipati/FRQ-week-2-repel)
+
+
 ## Week 1 Test Prep:
  
 [Test Correction](https://docs.google.com/document/d/1ITI4Ek_uzoe7-g-f4Ngf5HIgjfgjw-gfO4sKpUxLhKA/edit)

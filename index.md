@@ -4,6 +4,30 @@
 
 
 ## Week 2 Test Prep:
+q2) 
+I got this question wrong because I failed to realize the while loop created a case where the integers had to be odd so E would have to be the right answer and I failed to see that else statement well either. 
+q3) 
+I had the right idea here by dividing  by the vehicle speed but it had to have a decimal in the answer but needed to decimal because it would evaluate to 0.5 inceast of just 0. 
+q5) 
+I got this question wrong because I didn't identify the right signature of the constructors (String, String, boolean) and question E is the only option that does that right with the right data type. 
+Q11) 
+ During the first iteration of the while loop, num is decremented and "9" is printed. I didn't do the math right and thought 10 would be printed so my way added to the number instead of subtracting from it. So C would be the right answer. 
+q12) 
+I chose the wrong answer in this question by accident here, I understood the question but  I accidentally chose the wrong answer. 
+q15) 
+e. Multiplying that value by a and casting to an int produces a result between 0 and a - 1, inclusive.  This means that 0 would not be in range and my answer option was wrong because of that. 
+q17) 
+s the superclass method with the parameter 20. As a result, the instance variable power is incremented by 20. So an increment of 20 would mean that D would be the right answer. 
+Q 19) 
+ 
+2+2+3+8+5+6=26 would be the operation solD would be the answer. I did that in my head and that should be something I avoid. 
+q21) 
+D would be the answer due the the concentration of the strings from the array he method assigns the shortest string that occurs in any element of arr between arr[n] and arr[arr.length - 1], inclusive, to result[n]. The shortest string found between arr[0] and arr[3] is "of", so result[0] is assigned the value "of". The shortest string found between arr[1] and arr[3] is also "of", so result[1] is also assigned the value "of". 
+q22) ine 12 is executed each time the variable sm is updated because a new smallest value is found. When j has the value 0, sm is updated for "day" and "of". When j has the value 1, sm is updated for "of". When j has the value 4, and I did the math wrong so I put 5 times. 
+q30) OI didn't attempt this question, but understood it had to be super(x) because of the one argument constructor. 
+32) Since obj is instantiated as a ClassB object but the showValue method is not defined in ClassB, the showValue method call accesses the showValue method in the superclass, ClassA.  It was a good inheritance problem and I was somewhat confused and I didnt have too much time. 
+
+
  
 [Test Correction](https://docs.google.com/document/d/1dq66c9Ur7EPFW_XJRrHrKCNluTiwiMagTgMXVp4reLk/edit?usp=sharing)
 [Repel.it FRQ ](https://replit.com/@Akprathipati/FRQ-week-2-repel)
